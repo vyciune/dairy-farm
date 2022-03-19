@@ -16,7 +16,6 @@ if you have a tree that looks like this:
       2       3       
      / \           
     4   5      
-    
 the printed out tree will look like this
 1
          3
