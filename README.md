@@ -16,18 +16,14 @@ if you have a tree that looks like this:
       2       3       
      / \           
     4   5      
-
     
 the printed out tree will look like this
-
 1
          3
     2
              5
-          4
-             
- you can interpret it too look like this, when rotated and added links
-          
+          4   
+you can interpret it too look like this, when rotated and added links
         1
        /  
       2
@@ -35,6 +31,3 @@ the printed out tree will look like this
    4     3
     \
      5
-     
- 
-     
