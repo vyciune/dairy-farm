@@ -9,7 +9,7 @@ parent node is the node that is selected as parent used insertion.
 ![tree](https://user-images.githubusercontent.com/45511896/159123366-7437a36d-8e36-41ac-b261-4fa0f354b893.png)
 
 I used a general tree for farm data structure.
-
+<pre>
 if you have a tree that looks like this:
           1     
         /   \   
@@ -30,3 +30,4 @@ you can interpret it too look like this, when rotated and added links
    4     3
     \
      5
+</pre>
